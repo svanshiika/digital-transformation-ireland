@@ -24,16 +24,7 @@ The data was visualized using Tableau, and the insights were compiled into a for
 
 ---
 
-## 📁 Project Structure
-
-digital-transformation-ireland/
-├── report/
-│ └── Vanshika_Sharma_Report.pdf
-├── visuals/
-│ └── [Tableau visualizations / screenshots]
-├── data/
-│ └── [CSO CSVs if uploaded]
-└── README.md
+<pre> ## 📁 Project Structure ``` digital-transformation-ireland/ ├── report/ │ └── Vanshika_Sharma_Report.pdf ├── visuals/ │ └── [Tableau visualizations / screenshots] ├── data/ │ └── [CSO CSVs if uploaded] └── README.md ``` </pre>
 
 ---
 
